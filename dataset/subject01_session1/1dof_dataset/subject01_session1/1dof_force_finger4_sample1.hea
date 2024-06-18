@@ -1,0 +1,6 @@
+1dof_force_finger4_sample1 5 100 2500
+1dof_force_finger4_sample1.dat 16 1138929.4404(-4900)/V 0 0 934 -2889 0 thumb
+1dof_force_finger4_sample1.dat 16 922754.1538(-5550)/V 0 0 -6072 21859 0 index
+1dof_force_finger4_sample1.dat 16 709242.4242(-16288)/V 0 0 -15511 -17200 0 middle
+1dof_force_finger4_sample1.dat 16 279928.2389(7109)/V 0 0 6720 -12016 0 ring
+1dof_force_finger4_sample1.dat 16 866622.5866(3675)/V 0 0 4272 5766 0 little
